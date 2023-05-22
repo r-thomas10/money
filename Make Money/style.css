@@ -1,0 +1,14 @@
+label,
+input,
+button {
+  display: block;
+}
+
+button {
+  padding: 8px;
+  border: solid #007474 10px;
+  border-style: ridge;
+  background-color: #007474;
+  border-width: 8px;
+  opacity: 0.9;
+}
